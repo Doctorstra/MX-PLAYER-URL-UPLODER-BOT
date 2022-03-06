@@ -52,7 +52,7 @@ python3 bot.py
 
 ## Telegram Support:
 
-[![Channel](https://img.shields.io/badge/TG-Channel-30302f?style=flat&logo=telegram)](https://t.me/Dads_links_bot)
+[![Channel](https://img.shields.io/badge/TG-Channel-30302f?style=flat&logo=telegram)](https://t.me/Doctorstra_1)
 [![Group](https://img.shields.io/badge/TG-Group-30302f?style=flat&logo=telegram)](https://t.me/Doctorstra_1)
 
 ## Credits, and Thanks to
