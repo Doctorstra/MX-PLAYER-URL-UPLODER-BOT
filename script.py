@@ -3,17 +3,23 @@ class script(object):
     START_TEXT = """<b>Hai ,
     
 I'm A simple MX PLAYER link downloader bot With Permanent Thumbnail Support💯.
+
 Please send me any MX PLAYER link, I can upload it to telegram as File/Video.
-Currently I'm in beta mode 🥺, If found any bugs, report @Dads_links !
-🆔 **@Dads_links**
-Click <i>/help</i> for more details....</b>"""
+
+Click <i>/help</i> for more details....
+
+NOTE : Some DRM Protected videos cannot be downloaded!!</b>"""
 
 
     HELP_USER = """<b>Hai, Follow these steps..</b>
  
 1. Send Custom Thumbnail (It will be saved permenantly!)
-2. Send your MX PLAYER url and select desired option.
-NOTE: Download may take some time! So please wait for it to complete!"""
+2. Copy Link from MXPlayer app or Website using share option! Send it to bot and select desired option.
+
+
+<b>NOTE: Download may take some time! So please wait for it to complete!
+
+Some movies may be DRM protected or just couldn't be downloaded</b>"""
 
 
     ABOUT_TEXT = """⭕️<b>My Name : DADS LINKS MX PLAYER Url Uploader</b>
