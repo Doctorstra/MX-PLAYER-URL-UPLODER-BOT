@@ -1,16 +1,54 @@
 # MX-PLAYER-URL-UPLODER
-A Advance Powerful MX Player Url Downloader and Upload to Telegram
+If you find any bugs, report at @Dads_links
 
-### Deploy Now:
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Doctorstra/MX-PLAYER-URL-UPLODER)
+**My Features**:
 
-#### URL Examples
+👉 Upload as file/video from any NON-DRM MX PLAYER link
 
-`https://www.mxplayer.in/v/{id}/{filename}` [Link Example](https://streamtape.com/v/ZzXdOqgqB4Sq1l3/%2540xvideoutilsbot_Kanojo_Mo_Kanojo_S1_03_720P_EngSub_%2540allanimewithsub.mp4)
+👉 Permanent thumbnail support.
 
-`https://www.mxplayer.in/v/{id}/` [Link Example](https://www.mxplayer.in/show/watch-my-sweet-lie-tamil-dubbed/season-1/episode-1-online-fbf98d74f62adc0e364f5b3eedd639ca)
+### Installation
 
-`https://www.mxplayer.in/v/{id}` [Link Example](https://www.mxplayer.in/show/watch-my-sweet-lie-tamil-dubbed/season-1/episode-1-online-fbf98d74f62adc0e364f5b3eedd639ca)
+
+#### Deploy to Heroku
+
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://www.heroku.com/deploy?template=https://github.com/Doctorstra/MX-PLAYER-URL-UPLODER)
+
+#### Run in your VPS
+
+* Install requirements
+
+```sh
+sudo apt install python3-pip
+sudo apt install ffmpeg
+```
+
+* Create config.py appropriately (Refer Configs section)
+
+* Run the app
+
+```sh
+git clone https://github.com/Doctorstra/MX-PLAYER-URL-UPLODER
+cd MX-PLAYER-URL-UPLODER
+pip3 install -r requirements.txt
+python3 bot.py
+```
+
+## Configs
+
+* TG_BOT_TOKEN  - Get bot token from @BotFather
+* APP_ID        - From my.telegram.org (or @UseTGXBot)
+* API_HASH      - From my.telegram.org (or @UseTGXBot)
+* DB_URI        - PostgreSQL DB URL
+
+## Commands
+
+* /start             - Check if bot is alive
+* /help              - To know how the bot works
+* /upgrade           - Nothing much here
+* /showthumb         - Shows saved thumbnail
+* /delthumb          - Clear saved thumbnail
+
 
 ## Telegram Support:
 
