@@ -62,4 +62,4 @@ python3 bot.py
 </p>
 
 #### LICENSE
-- **MIT**
+- **𝗠𝗜𝗧**
