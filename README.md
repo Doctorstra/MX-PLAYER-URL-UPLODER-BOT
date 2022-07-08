@@ -12,7 +12,7 @@ If you find any bugs, report at @Doctorstra_1
 
 #### Deploy to Heroku
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://www.heroku.com/deploy?template=https://github.com/Doctorstra)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://www.heroku.com/deploy?template=)
 
 #### Run in your VPS
 
